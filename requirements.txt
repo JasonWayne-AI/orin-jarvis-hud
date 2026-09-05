@@ -1,0 +1,5 @@
+google-genai
+requests
+numpy
+sounddevice
+yt-dlp
